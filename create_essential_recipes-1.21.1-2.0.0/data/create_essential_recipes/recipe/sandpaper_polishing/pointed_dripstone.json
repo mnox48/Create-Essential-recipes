@@ -1,0 +1,15 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "minecraft:dripstone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+          "id": "minecraft:pointed_dripstone"
+      }
+    }
+  ]
+}

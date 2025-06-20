@@ -1,0 +1,18 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "create:scoria"
+    	}
+    ], 
+	"results": [
+		{
+			"chance": 0.1,
+			"item": {
+       		 "id": "create:crushed_raw_copper"
+			 
+      		}			
+			
+		}
+	]
+}
