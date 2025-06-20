@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MMMMM",
+    "MMMMM",
+    " MMM ",
+    " M M "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": {
+          "id": "minecraft:elytra"
+    }
+  }
+}

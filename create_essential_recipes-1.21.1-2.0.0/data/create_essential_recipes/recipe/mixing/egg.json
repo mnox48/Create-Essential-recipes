@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:calcite"
+    },
+    {
+      "item": "create:experience_nugget"
+    }    
+  ],
+  "results": [
+    {
+      "item": {
+          "id": "minecraft:egg"
+      }
+    }
+  ]
+}
